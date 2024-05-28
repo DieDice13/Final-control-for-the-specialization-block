@@ -46,7 +46,7 @@ sudo dpkg -P htop
 ```
 
 6. Диаграмма
-![Диаграмма](Images/Diagramma_animals.png)
+![Диаграмма](Diagramma_animals.png)
 
 7. Создание в подключенном MySQL репозитории базы данных “ Друзья человека ”.
 ```
